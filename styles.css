@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
+    background-color: (233, 227, 217, 0.699);
     
 }
 
@@ -12,7 +13,7 @@
     top: 0;
     width: 100%;
     z-index: 2;
-    background-color: white;
+    background-color: (233, 227, 217, 0.699);
     padding: 10px 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
